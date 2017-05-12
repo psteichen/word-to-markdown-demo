@@ -83,5 +83,8 @@ DEPENDENCIES
   sinatra
   word-to-markdown!
 
+RUBY VERSION
+   ruby 2.2.7p470
+
 BUNDLED WITH
-   1.10.6
+   1.14.6
