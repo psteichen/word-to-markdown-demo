@@ -17,3 +17,7 @@ Deploy to Heroku
 ## Some notes
 
 This requires a [multi-buildpack](https://github.com/ddollar/heroku-buildpack-multi) in order to install LibreOffice
+
+## Local deploy
+
+Requires ruby 2.2.3 at least as well as an execjs runtime (eg. Node.js)
